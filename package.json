@@ -10,7 +10,7 @@
     "url": "https://github.com/persistr/clif-plugin-json5.git"
   },
   "dependencies": {
-    "json5": "^2.1.3"
+    "jju": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
