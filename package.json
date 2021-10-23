@@ -1,6 +1,6 @@
 {
   "name": "@persistr/clif-plugin-json5",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "JSON5 plugin for @persistr/clif",
   "main": "index.js",
   "author": "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)",
